@@ -1,2 +1,2 @@
 # Regular-Expressions
-Pattern Matching and Extraction
+Language for string pattern matching 
